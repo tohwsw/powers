@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thank you for your interest in contributing to our project. To submit a power please visit https://kiro.dev/powers/
+Thank you for your interest in contributing to our project. To submit a power please visit https://kiro.dev/powers/submit/
 
 ## Reporting Bugs/Feature Requests
 
